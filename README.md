@@ -13,9 +13,9 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **ARTIFICIAL MODELS**  
+- 🔭 Currently working on **A.I MODELS**  
 - 🌱 Exploring **DSA in C++** & **Artificial Intelligence**  
-- 👯 Open to collaborate on **Resume Maker** and AI Projects  
+- 👯 Open to collaborate on **CAREER ADVISOR** and AI Projects  
 - ⚡ Fun fact: *I debug 2x faster with coffee ☕*  
 - 📫 Reach me at: **amity757330@gmail.com**
 

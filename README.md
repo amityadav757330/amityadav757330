@@ -13,7 +13,7 @@
 ---
 
 ### 👨‍💻 About Me
-- 🔭 Currently working on **Resume Analyser**  
+- 🔭 Currently working on **ARTIFICIAL MODELS**  
 - 🌱 Exploring **DSA in C++** & **Artificial Intelligence**  
 - 👯 Open to collaborate on **Resume Maker** and AI Projects  
 - ⚡ Fun fact: *I debug 2x faster with coffee ☕*  
